@@ -1,0 +1,21 @@
+.menuBar {
+    width: 250px;
+    height: 100vh;
+    background: #31304D;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.menu-item {
+    width:auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 35px;
+    padding: 8px 18px;
+}
+
+.menu-item a {
+    text-decoration: none;
+    color: #F0ECE5;
+}
